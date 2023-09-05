@@ -13,7 +13,6 @@ A machine learning project for digit classification using Artificial Neural Netw
 - [Features](#features)
 - [Dataset](#dataset)
 - [Model Architecture](#model-architecture)
-- [Results](#results)
 
 
 ## Introduction
